@@ -1,0 +1,9 @@
+.footer-area{
+    position: absolute;
+    left: 0;
+    bottom: -78px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding:35px;
+}

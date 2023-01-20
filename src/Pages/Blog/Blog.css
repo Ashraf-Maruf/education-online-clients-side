@@ -1,0 +1,16 @@
+.blog-area{
+    margin-top: 80px;
+    margin-bottom: 120px;
+}
+
+.blog-text{
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.blog-text h1{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.blog-text p{
+    text-align: justify;
+}
